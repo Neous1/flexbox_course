@@ -10,9 +10,13 @@ body {
 	display: flex;
 	margin: 1em 0;
 	border: 1px solid #333;
-    	/*-webkit-flex-direction: column;
-	-ms-flex-direction: column;*/
+    width: 600px;
+    -webkit-flex-direction: row;
+	-ms-flex-direction: row;
 	flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
 	
 
 }
