@@ -16,3 +16,21 @@ body {
     flex-flow: row wrap;
 
 }
+.flex-container2 {
+	display:-webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 1em 0;
+	border: 1px solid #333;
+ 
+}
+.flex1{
+	-webkit-flex: 1; 
+	-ms-flex: 1;
+	flex: 1;
+}
+.flex2{
+	-webkit-flex: 2 ; 
+	-ms-flex: 2 ;
+	flex: 2 ;
+}
