@@ -1,0 +1,15 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+	padding: 2%;
+	line-height: 1.6;
+}
+.flex-container {
+	display:-webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 1em 0;
+	border: 1px solid #333;
+	
+
+}
