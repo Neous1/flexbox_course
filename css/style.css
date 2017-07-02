@@ -11,12 +11,8 @@ body {
 	margin: 1em 0;
 	border: 1px solid #333;
     width: 600px;
-    -webkit-flex-direction: row;
-	-ms-flex-direction: row;
-	flex-direction: row;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-	
+    -webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+    flex-flow: row wrap;
 
 }
