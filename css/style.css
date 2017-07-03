@@ -39,6 +39,7 @@ body {
 	display:flex;
 	margin: 1em 0;
 	border: 1px solid #333;
+	width: 600px;
 }
 .flex31{
 	flex:3
